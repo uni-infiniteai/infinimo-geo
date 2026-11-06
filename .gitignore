@@ -1,0 +1,11 @@
+# Local install test output (use install.sh in your project, not in this repo)
+.cursor/
+.agents/
+.infinimo/
+.claude/
+.opencode/
+.qwen/
+CONVENTIONS.md
+.windsurfrules
+
+.DS_Store
